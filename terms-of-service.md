@@ -1,14 +1,27 @@
-# vortex-smb-bot
-# Termini di Servizio - 𝚅𝙾𝚁𝚃𝙴𝚇 𝚂𝙼𝙿#2004
+Termini di Servizio - Vortex SMB Bot
 
-## Raccolta dati
-Questo bot raccoglie solo l'ID utente e i messaggi necessari per il funzionamento dei comandi. Nessun dato viene venduto a terzi.
+Ultimo aggiornamento: //
 
-## Uso dei dati
-I dati raccolti vengono utilizzati esclusivamente per fornire le funzionalità del bot.
+1. Accettazione dei Termini
 
-## Responsabilità
-Gli sviluppatori non sono responsabili per danni indiretti causati dall'uso del bot.
+Utilizzando il bot Vortex SMB Bot ("Bot"), accetti di rispettare i presenti Termini di Servizio. Se non concordi con questi termini, ti invitiamo a non utilizzare il Bot.
 
-## Contatti
-Per richieste di rimozione dati o domande: [discord: corus_ale_rp]
+2. Utilizzo Consentito
+
+Il Bot è destinato esclusivamente all'uso all'interno di server Discord. È vietato utilizzarlo per attività illegali, dannose o che violino le normative di Discord.
+
+3. Raccolta Dati
+
+Il Bot raccoglie informazioni come l'ID utente, il nome utente e i messaggi inviati durante l'interazione. Questi dati sono utilizzati esclusivamente per il funzionamento del Bot e non vengono condivisi con terze parti.
+
+4. Limitazioni di Responsabilità
+
+Il Bot è fornito "così com'è". Gli sviluppatori non sono responsabili per danni diretti o indiretti derivanti dall'uso del Bot.
+
+5. Modifiche ai Termini
+
+Gli sviluppatori si riservano il diritto di modificare questi Termini di Servizio in qualsiasi momento. Le modifiche saranno comunicate attraverso i canali ufficiali del Bot.
+
+6. Contatti
+
+Per domande o richieste relative ai Termini di Servizio, contattaci si discord: corus_ale_rp
